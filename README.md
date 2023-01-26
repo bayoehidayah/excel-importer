@@ -14,4 +14,4 @@ composer install
 ```
 3. make folder "uploads" after download
 4. Change database configure in db_config.php 
-5. Configure your excel field in excelUploads.php
+5. Configure your excel file and database field take a look in excelUploads.php
