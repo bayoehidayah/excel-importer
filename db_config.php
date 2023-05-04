@@ -1,6 +1,6 @@
 <?php
 	$dbHost = "localhost";
-	$dbDatabase = "earsip_active";
+	$dbDatabase = "dbapriori";
 	$dbPasswrod = "root";
 	$dbUser = "root";
 	$mysqli = new mysqli($dbHost, $dbUser, $dbPasswrod, $dbDatabase);
